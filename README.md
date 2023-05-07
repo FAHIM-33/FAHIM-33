@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Web Development
 
 - @contact me, 
-- shahriyerfahim2012@gmail.com
 - facebook profile:
 - https://www.facebook.com/shahriyerhossain.fahim/
 
