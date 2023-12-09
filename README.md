@@ -10,7 +10,7 @@
 - [Twitter](https://twitter.com/yourtwitter)
 
 # Skills Set: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,firebase,mongodb,tailwind)](https://skillicons.dev)
 
 - @contact me, 
 - facebook profile:
@@ -20,4 +20,7 @@
 
 - 👋 Hi, I’m FAHIM
 - I am a web developer
+- I use REACT JS for my projects
+
+
 
