@@ -1,6 +1,5 @@
 - 👋 Hi, I’m FAHIM
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Web Development
+- I am a web developer
 
 - @contact me, 
 - facebook profile:
