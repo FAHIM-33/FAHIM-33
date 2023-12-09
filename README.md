@@ -9,15 +9,15 @@
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 - [Twitter](https://twitter.com/yourtwitter)
 
-
-- 👋 Hi, I’m FAHIM
-- I am a web developer
+# Skills Set: 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 - @contact me, 
 - facebook profile:
 - https://www.facebook.com/shahriyerhossain.fahim/
 
-<!---
-FAHIM-33/FAHIM-33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+- 👋 Hi, I’m FAHIM
+- I am a web developer
+
