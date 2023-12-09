@@ -4,6 +4,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FAHIM-33&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
 
 
+📫 **Contact:**
+- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- [Twitter](https://twitter.com/yourtwitter)
+
 
 - 👋 Hi, I’m FAHIM
 - I am a web developer
