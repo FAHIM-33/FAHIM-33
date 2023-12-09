@@ -5,7 +5,7 @@
 
 
 📫 **Contact:**
-- [Email](mailto:youremail@example.com)
+- ✉️ [Email](mailto:youremail@example.com)
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 - [Twitter](https://twitter.com/yourtwitter)
 
