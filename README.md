@@ -6,6 +6,7 @@
 
 📫 **Contact:**
 - ✉️ [Email](mailto:shahriyerfahim2012@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
 
 # Skills Set: 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,firebase,mongodb,tailwind)](https://skillicons.dev)
