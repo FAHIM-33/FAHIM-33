@@ -17,8 +17,8 @@
 
 
 
-- 👋 Hi, I’m FAHIM
-- I am a web developer
+- Hi, I’m SH FAHIM
+- I'm currently working as a Front-End developer
 - I use REACT JS for my projects
 
 
